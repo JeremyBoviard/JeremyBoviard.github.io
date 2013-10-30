@@ -1,4 +1,12 @@
 section {
 	width: 60%;
-	Float: left;
+	float: left;
+}
+
+img {
+	width:150px;
+}
+
+footer {
+	clear:both;
 }
